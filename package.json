@@ -1,5 +1,5 @@
 {
-  "name": "iamport-capacitor",
+  "name": "@onout/iamport-capacitor",
   "version": "1.0.2",
   "description": "Capacitor plugin for Iamport",
   "types": "dist/esm/index.d.ts",
@@ -15,17 +15,17 @@
     "IamportCapacitor.podspec"
   ],
   "author": {
-    "name": "Soree Choi",
-    "email": "mymusese@gmail.com",
-    "url": "https://github.com/SoleeChoi"
+    "name": "onout",
+    "email": "ryan@on-out.com",
+    "url": "https://github.com/on-out"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamport/iamport-capacitor"
+    "url": "https://github.com/on-out/iamport-capacitor"
   },
   "bugs": {
-    "url": "https://github.com/iamport/iamport-capacitor/issues"
+    "url": "https://github.com/on-out/iamport-capacitor/issues"
   },
   "keywords": [
     "capacitor",
