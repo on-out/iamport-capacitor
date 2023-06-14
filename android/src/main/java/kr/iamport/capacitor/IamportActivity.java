@@ -8,8 +8,6 @@ import android.webkit.CookieManager;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import kr.iamport.capacitor.iamportcapacitor.R;
-
 public class IamportActivity extends Activity {
     WebView webview;
     IamportWebViewClient webViewClient;
