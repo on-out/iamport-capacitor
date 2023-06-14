@@ -12,7 +12,7 @@
     "dist/",
     "ios/Plugin/",
     "ios/Resources/",
-    "IamportCapacitor.podspec"
+    "OnoutIamportCapacitor.podspec"
   ],
   "author": {
     "name": "onout",
