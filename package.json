@@ -1,7 +1,7 @@
 {
   "name": "@onout/iamport-capacitor",
   "version": "1.0.2",
-  "description": "Capacitor plugin for Iamport",
+  "description": "Capacitor plugin for Iamport (onout)",
   "types": "dist/esm/index.d.ts",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
